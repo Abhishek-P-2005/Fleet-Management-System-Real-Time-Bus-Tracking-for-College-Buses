@@ -116,7 +116,7 @@ bus-tracker/
 
 ### ⚠️ Low Fuel Alert System
 
-When any bus’s fuel level ≤ 12 L:
+When any bus’s fuel level ≤ 25 L:
 
 * A **toast-style alert** appears on the **bottom-right** of the screen.
 * Alerts remain active until fuel is refilled.
