@@ -1,0 +1,48 @@
+[
+    {
+      "from": "T Nagar, Chennai",
+      "to": "Saidapet, Chennai",
+      "file": "segment1.json"
+    },
+    {
+      "from": "Saidapet, Chennai",
+      "to": "Guindy, Chennai",
+      "file": "segment2.json"
+    },
+    {
+      "from": "Guindy, Chennai",
+      "to": "Velachery, Chennai",
+      "file": "segment3.json"
+    },
+    {
+      "from": "Velachery, Chennai",
+      "to": "Balaji Dental College, Chennai",
+      "file": "segment4.json"
+    },
+    {
+      "from": "Balaji Dental College, Chennai",
+      "to": "Medavakkam Junction, Chennai",
+      "file": "segment5.json"
+    },
+    {
+      "from": "Medavakkam Junction, Chennai",
+      "to": "Sholinganallur, Chennai",
+      "file": "segment6.json"
+    },
+    {
+      "from": "Sholinganallur, Chennai",
+      "to": "Navalur, Chennai",
+      "file": "segment7.json"
+    },
+    {
+      "from": "Navalur, Chennai",
+      "to": "Kelambakkam, Chennai",
+      "file": "segment8.json"
+    },
+    {
+      "from": "Kelambakkam, Chennai",
+      "to": "VIT Chennai",
+      "file": "segment9.json"
+    }
+  ]
+  

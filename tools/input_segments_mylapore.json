@@ -1,0 +1,38 @@
+[
+    {
+      "from": "Mylapore, Chennai",
+      "to": "Alwarpet, Chennai",
+      "file": "segment1.json"
+    },
+    {
+      "from": "Alwarpet, Chennai",
+      "to": "Adyar, Chennai",
+      "file": "segment2.json"
+    },
+    {
+      "from": "Adyar, Chennai",
+      "to": "Thiruvanmiyur, Chennai",
+      "file": "segment3.json"
+    },
+    {
+      "from": "Thiruvanmiyur, Chennai",
+      "to": "Perungudi, Chennai",
+      "file": "segment4.json"
+    },
+    {
+      "from": "Perungudi, Chennai",
+      "to": "Sholinganallur, Chennai",
+      "file": "segment5.json"
+    },
+    {
+      "from": "Sholinganallur, Chennai",
+      "to": "Navalur, Chennai",
+      "file": "segment6.json"
+    },
+    {
+      "from": "Navalur, Chennai",
+      "to": "VIT Chennai",
+      "file": "segment7.json"
+    }
+  ]
+  

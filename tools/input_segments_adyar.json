@@ -1,0 +1,53 @@
+[
+    {
+      "from": "Adyar, Chennai",
+      "to": "Besant Nagar, Chennai",
+      "file": "segment1.json"
+    },
+    {
+      "from": "Besant Nagar, Chennai",
+      "to": "Thiruvanmiyur, Chennai",
+      "file": "segment2.json"
+    },
+    {
+      "from": "Thiruvanmiyur, Chennai",
+      "to": "Perungudi, Chennai",
+      "file": "segment3.json"
+    },
+    {
+      "from": "Perungudi, Chennai",
+      "to": "Thoraipakkam, Chennai",
+      "file": "segment4.json"
+    },
+    {
+      "from": "Thoraipakkam, Chennai",
+      "to": "Sholinganallur, Chennai",
+      "file": "segment5.json"
+    },
+    {
+      "from": "Sholinganallur, Chennai",
+      "to": "Navalur, Chennai",
+      "file": "segment6.json"
+    },
+    {
+      "from": "Navalur, Chennai",
+      "to": "Kelambakkam, Chennai",
+      "file": "segment7.json"
+    },
+    {
+      "from": "Kelambakkam, Chennai",
+      "to": "Pudupakkam, Chennai",
+      "file": "segment8.json"
+    },
+    {
+      "from": "Pudupakkam, Chennai",
+      "to": "Tagore Engineering College, Chennai",
+      "file": "segment9.json"
+    },
+    {
+      "from": "Tagore Engineering College, Chennai",
+      "to": "VIT Chennai",
+      "file": "segment10.json"
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+[
+    {
+      "from": "Chengalpattu",
+      "to": "Paranur",
+      "file": "segment1.json"
+    },
+    {
+      "from": "Paranur",
+      "to": "Mahindra World City",
+      "file": "segment2.json"
+    },
+    {
+      "from": "Mahindra World City",
+      "to": "Maraimalai Nagar",
+      "file": "segment3.json"
+    },
+    {
+      "from": "Maraimalai Nagar",
+      "to": "Guduvanchery",
+      "file": "segment4.json"
+    },
+    {
+      "from": "Guduvanchery",
+      "to": "Urapakkam",
+      "file": "segment5.json"
+    },
+    {
+      "from": "Urapakkam",
+      "to": "Vandalur",
+      "file": "segment6.json"
+    },
+    {
+      "from": "Vandalur",
+      "to": "VIT Chennai",
+      "file": "segment7.json"
+    }
+  ]
+  
