@@ -15,7 +15,7 @@ def update_bus():
     data = request.get_json()
     bus_id = data.get("bus_id")
     if not bus_id:
-        return jsonify({"error": "bus_id missing"}), 400
+       return jsonify({"error": "bus_id missing"}), 400
 
     data["last_updated"] = time.time()
     buses[bus_id] = data
